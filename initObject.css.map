@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,UAAU,CAAA;EACN,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,IAAI;EACZ,gBAAgB,EAAE,KAAK;EACvB,QAAQ,EAAE,KAAK;EACf,GAAG,EAAE,CAAC;EACN,MAAM,EAAE,CAAC;EACT,IAAI,EAAE,CAAC;EACP,KAAK,EAAE,CAAC;EACR,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "initObject.scss"
+    ],
+    "names": [],
+    "file": "initObject.css"
+}
