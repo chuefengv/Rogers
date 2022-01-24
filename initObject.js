@@ -1,16 +1,12 @@
+
 function initialize(){
-    // const outerContainer = document.createElement("div");
-    // const mainContainer = document.createElement("div");
+
     const character = document.createElement("div");
 
-    // outerContainer.id = "outer-container";
-    // mainContainer.id = "container";
-    character.id = "character"
+    character.id = "character";
+    document.body.style.position = "relative";
 
-    // mainContainer.appendChild(character);
-    // outerContainer.appendChild(mainContainer);
-
-    document.body.appendChild(character);
+    document.body.appendChild(character);    
 
 }
 

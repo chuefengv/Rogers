@@ -6,7 +6,7 @@
     "content_scripts": [
         {
             "matches": ["<all_urls>"],
-            "js": ["initObject.js","dragging.js"],
+            "js": ["initObject.js","dragging.js","movement.js"],
             "css": ["initObject.css"]
         }
     ],
