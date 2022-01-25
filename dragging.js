@@ -36,9 +36,9 @@
 //     initialX = currentX;
 //     initialY = currentY;
 
-//     console.log("currentY: "+currentY);
-//     dragItem.style.bottom=Math.abs(currentY)+'px';
-//     console.log(window.getComputedStyle(dragItem).bottom);
+//     // console.log("currentY: "+currentY);
+//     // dragItem.style.bottom=Math.abs(currentY)+'px';
+//     // console.log(window.getComputedStyle(dragItem).bottom);
 
 //     active = false;
 
